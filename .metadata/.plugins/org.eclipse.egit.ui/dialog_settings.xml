@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
+	<item key="GitSelectRepositoryPage.lastRepository" value="C:\Users\Tales\Documents\GitHub\Eclipse-Workspace\JAVA\.git"/>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/tales1982/JAVA"/>
+		<item value="file://C:\Users\Tales\Documents\GitHub\Eclipse-Workspace"/>
+	</list>
+	<section name="GitImportWizard">
+	</section>
+</section>
